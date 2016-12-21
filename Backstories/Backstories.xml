@@ -12,11 +12,11 @@
 		<titleShort>农奴</titleShort>
 		<desc>耕作、锄地、驾牛车、推手推车，挖掘沟渠，播种收割。
 
-封建制度下的农民没有接受过通常意义上的教育,只知道些无须技术的种植方法。这样的生活决定他们基本上无法进行科技和技术性的活动。</desc>
+封建制度下的农民没有接受过通常意义上的教育,只知道些无需技术的种植方法。这样的生活决定他们基本上无法进行智慧型和技术型的活动。</desc>
 	</MedievalFarmOaf58>
 	<MedievalLord20>
 		<title>封建领主</title>
-		<titleShort>领主</titleShort>
+		<titleShort>贵族</titleShort>
 		<desc>NAME在前工业化星球是一名领主。 HE参加宴会，管理下属，甚至学会了一些剑术。
 
 HE柔弱的双手从没用过一件工具。HE不屑参与任何体力劳动</desc>
@@ -31,19 +31,19 @@ NAME掌握着从贿赂到分析的所有贸易技巧————活生生的社�
 	<DeepSpaceMiner11>
 		<title>深空矿工</title>
 		<titleShort>矿工</titleShort>
-		<desc>NAME每天重复的干着从小行星里开采金属元素的脏活。HE每天都练习着他上手的工业技巧————包括在酒吧打架的时候</desc>
+		<desc>NAME每天重复的干着从小行星里开采金属元素的脏活。HE每天都运用着他上手的工业技巧————包括在酒吧打架的时候</desc>
 	</DeepSpaceMiner11>
 	<NavyScientist96>
 		<title>舰队科学家</title>
 		<titleShort>科学家</titleShort>
-		<desc>深谙“星际战争的胜利是靠科技取得的”的道理，帝国舰队在现代科研上永远追求领先。更好的是，他们能最先拿到从外太空获取的超世界仪器。
+		<desc>深谙“星际战争的胜利是靠科技取得的”的道理，帝国舰队一直站在现代科研的巅峰。更好的是，他们能最先拿到从外太空获取的超世界仪器。
 
 NAME就在帝国舰队实验室工作</desc>
 	</NavyScientist96>
 	<MilitaryCommissar49>
 		<title>军队督察员</title>
 		<titleShort>督察员</titleShort>
-		<desc>NAME就象是一名在帝国军队内部的间谍。 HE确保军队的忠诚和确实执行命令。虽然这使得HE不受欢迎,这却让HE获得准确识破谎言的能力</desc>
+		<desc>NAME就象是一名在帝国军队内部的间谍。 HE要确保每个人都是忠诚的而且拥有绝不后退的意志。虽然这使得HE不受欢迎,这却让HE获得准确识破谎言的能力</desc>
 	</MilitaryCommissar49>
 	<SpacePirate69>
 		<title>太空海盗</title>
